@@ -1,7 +1,11 @@
+
+Para instalar las dependencias
+
+### `npm install`
+ 
 Para correr este proyecto 
 
 ### `npm start`
-
 
 Ejecuta la aplicación en el modo de desarrollo.
 
